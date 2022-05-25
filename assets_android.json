@@ -1,0 +1,16 @@
+{
+  "56": [
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "decimals": 18
+    },
+    {
+      "name": "Kodexa",
+      "symbol": "KDX",
+      "address": "0xB007549db2A335364dfdCE86001Ee3b081051f03",
+      "decimals": 18
+    }
+  ]
+}
